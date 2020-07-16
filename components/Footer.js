@@ -9,7 +9,7 @@ const Footer = (props) => (
                 <li><a href="#" className="icon alt fa-linkedin"><span className="label">LinkedIn</span></a></li>
             </ul>
             <ul className="copyright">
-                <li>&copy; Untitled</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
+                <li><span id="year"></span> &copy; Alessandro Anselmi</li><li>Design: <a href="https://html5up.net">HTML5 UP</a></li>
             </ul>
         </div>
     </footer>
