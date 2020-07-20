@@ -30,13 +30,13 @@ export default () => (
                     <article style={{backgroundImage: `url('/static/images/pic03.jpg')`}}>
                         <header className="major">
                             <h3>Fisioterapia De Simone</h3>
-                            <p>Website & Social</p>
+                            <p>Website</p>
                         </header>
                         <Link href="/landing"><a className="link primary"></a></Link>
                     </article>
                     <article style={{backgroundImage: `url('/static/images/pic04.jpg')`}}>
                         <header className="major">
-                            <h3>Ristorante Zì Titta</h3>
+                            <h3>Major Lake Soccer</h3>
                             <p>Website</p>
                         </header>
                         <Link href="/landing"><a className="link primary"></a></Link>
