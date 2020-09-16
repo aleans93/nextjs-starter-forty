@@ -2,13 +2,13 @@ const Banner = (props) => (
     <section id="banner" className="major">
         <div className="inner">
             <header className="major">
-                <h1>Hi, my name is Alessandro Anselmi</h1>
+                <h1>Hello, my name is Alessandro</h1>
             </header>
             <div className="content">
-                <p>I'm a web developer based in Rome<br />
-                and welcome to my portfolio.</p>
+                <p>I'm a web developer,<br />
+                welcome to my portfolio.</p>
                 <ul className="actions">
-                    <li><a href="#one" className="button next scrolly">Get Started</a></li>
+                    <li><a href="#one" className="button next scrolly">Take a look around</a></li>
                 </ul>
             </div>
         </div>

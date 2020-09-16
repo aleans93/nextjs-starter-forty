@@ -13,45 +13,75 @@ export default () => (
             <Banner />
             <div id="main">
                 <section id="one" className="tiles">
-                    <article style={{backgroundImage: `url('/static/images/pic01.jpg')`}}>
+                    <article style={{backgroundImage: `url('/static/images/screenshot-damon-creazioni.jpg')`}}>
+                        <div class="work-nr">
+                            <div>
+                                <span>01</span>
+                            </div>
+                        </div>
                         <header className="major">
                             <h3>Damon Creazioni</h3>
-                            <p>Website</p>
+                            <p>#Website</p>
                         </header>
                         <Link href="/landing"><a className="link primary"></a></Link>
                     </article>
-                    <article style={{backgroundImage: `url('/static/images/pic02.jpg')`}}>
-                        <header className="major">
-                            <h3>Studio 25 – Produzioni Visive</h3>
-                            <p>Website</p>
-                        </header>
-                        <Link href="/landing"><a className="link primary"></a></Link>
-                    </article>
-                    <article style={{backgroundImage: `url('/static/images/pic03.jpg')`}}>
+                    <article style={{backgroundImage: `url('/static/images/screenshot-fisioterapia-de-simone.jpg')`}}>
+                        <div class="work-nr">
+                            <div>
+                                <span>02</span>
+                            </div>
+                        </div>
                         <header className="major">
                             <h3>Fisioterapia De Simone</h3>
-                            <p>Website &amp; Social</p>
+                            <p>#Website #Social</p>
                         </header>
                         <Link href="/landing"><a className="link primary"></a></Link>
                     </article>
-                    <article style={{backgroundImage: `url('/static/images/pic04.jpg')`}}>
+                    <article style={{backgroundImage: `url('/static/images/screenshot-studio-25.jpg')`}}>
+                        <div class="work-nr">
+                            <div>
+                                <span>03</span>
+                            </div>
+                        </div>
                         <header className="major">
-                            <h3>Ristorante Zì Titta</h3>
-                            <p>Website</p>
+                            <h3>Studio 25 – Produzioni Visive</h3>
+                            <p>#Website</p>
                         </header>
                         <Link href="/landing"><a className="link primary"></a></Link>
                     </article>
-                    <article style={{backgroundImage: `url('/static/images/pic05.jpg')`}}>
+                    <article style={{backgroundImage: `url('/static/images/screenshot-ristorante-zi-titta.jpg')`}}>
+                        <div class="work-nr">
+                            <div>
+                                <span>04</span>
+                            </div>
+                        </div>
+                        <header className="major">
+                            <h3>Ristorante Zi Titta</h3>
+                            <p>#Website #Social</p>
+                        </header>
+                        <Link href="/landing"><a className="link primary"></a></Link>
+                    </article>
+                    <article style={{backgroundImage: `url('/static/images/screenshot-maeva-beauty.jpg')`}}>
+                        <div class="work-nr">
+                            <div>
+                                <span>05</span>
+                            </div>
+                        </div>
                         <header className="major">
                             <h3>Maeva Beauty</h3>
-                            <p>Website</p>
+                            <p>#Website</p>
                         </header>
                         <Link href="/landing"><a className="link primary"></a></Link>
                     </article>
-                    <article style={{backgroundImage: `url('/static/images/pic06.jpg')`}}>
+                    <article style={{backgroundImage: `url('/static/images/screenshot-futura-gardening.jpg')`}}>
+                        <div class="work-nr">
+                            <div>
+                                <span>06</span>
+                            </div>
+                        </div>
                         <header className="major">
                             <h3>Futura Gardening</h3>
-                            <p>Website</p>
+                            <p>#Website</p>
                         </header>
                         <Link href="/landing"><a className="link primary"></a></Link>
                     </article>
