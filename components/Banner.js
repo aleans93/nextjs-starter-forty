@@ -8,7 +8,7 @@ const Banner = (props) => (
                 <p>I'm a web developer,<br />
                 welcome to my portfolio.</p>
                 <ul className="actions">
-                    <li><a href="#one" className="button next scrolly">Take a look around</a></li>
+                    <li><a href="#one" className="button next scrolly">Go to Projects</a></li>
                 </ul>
             </div>
         </div>
