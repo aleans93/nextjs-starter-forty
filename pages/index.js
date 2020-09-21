@@ -91,7 +91,7 @@ export default () => (
                         <header className="major">
                             <h2>Websites, Web Apps &amp; eCommerce Development</h2>
                         </header>
-                        <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+                        <p>My <strong>goal</strong> is to take your business to the <strong>next level</strong><br /> by building <strong>innovative web solutions</strong>, according to your needs.</p>
                         <ul className="actions">
                             <li><Link href="/landing"><a className="button next">Get in touch</a></Link></li>
                         </ul>
